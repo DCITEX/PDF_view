@@ -6,7 +6,7 @@ const container = document.getElementById('pdf-viewer');
 
 // PDFファイルのURL
 // const url = 'https://example.com/path/to/your/pdf/file.pdf';
-const url = '_LOGO_Guideline_2210.pdf';
+const url = '/_LOGO_Guideline_2210.pdf';
 // PDFを表示するためのオプション
 const options = {
   // 表示倍率
